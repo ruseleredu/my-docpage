@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Tutorial Intro (Triggering deployment with GitHub Actions)
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
