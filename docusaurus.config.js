@@ -42,7 +42,13 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'pt-BR'],
+    localeConfigs: {
+      'pt-BR': {
+        label: 'Português',
+        direction: 'ltr',
+      },
+    },
   },
 
   // Diagrams can be rendered using Mermaid in a code block.
@@ -115,6 +121,10 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {

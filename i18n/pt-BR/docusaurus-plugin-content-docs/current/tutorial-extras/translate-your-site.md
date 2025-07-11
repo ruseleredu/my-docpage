@@ -59,7 +59,7 @@ i18n/pt-BR/docusaurus-plugin-content-docs/current/
 ```
 Then translate the `.md` files inside.
 
-## Preview Your Translated Site
+## SPreview Your Translated Site
 
 Run the dev server with the locale:
 
