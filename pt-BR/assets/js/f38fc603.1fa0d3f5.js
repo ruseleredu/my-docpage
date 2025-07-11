@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docpage=self.webpackChunkmy_docpage||[]).push([[8496],{5410:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/my-docpage/pt-BR/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
